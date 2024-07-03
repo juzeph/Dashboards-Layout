@@ -13,6 +13,5 @@
 
 ### 🌐 Conecte-se comigo!
 
-[![YouTube](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/youtube.png)](https://www.youtube.com/c/SeuCanal)
-[![LinkedIn](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/instagram.png)](https://www.linkedin.com/in/seu-perfil)
-[![LinkedIn](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/linkedin.png)](https://www.linkedin.com/in/thiago-jcarrijo/)
+| [![YouTube](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/youtube.png)](https://www.youtube.com/c/SeuCanal) | [![LinkedIn](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/instagram.png)](https://www.linkedin.com/in/seu-perfil) | [![LinkedIn](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/linkedin.png)](https://www.linkedin.com/in/thiago-jcarrijo/)
+
