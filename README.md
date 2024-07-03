@@ -13,7 +13,6 @@
 
 ### 🌐 Conecte-se comigo!
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/c/SeuCanal)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)](https://github.com/seu-usuario)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg)](https://twitter.com/seu-usuario)
+[![YouTube](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/youtube.png)](https://www.youtube.com/c/SeuCanal)
+[![LinkedIn](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/instagram.png)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://github.com/alisonpezzott/powerbi/raw/main/assets/icons/linkedin.png)](https://www.linkedin.com/in/thiago-jcarrijo/)
