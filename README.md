@@ -1,4 +1,5 @@
-<--!# ![Banner](link-para-seu-banner)
+<!-- 
+# ![Banner](link-para-seu-banner)
 
 # 🏆 Mais Procurado
 
