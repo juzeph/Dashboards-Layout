@@ -1,4 +1,4 @@
-# ![Banner](link-para-seu-banner)
+/*# ![Banner](link-para-seu-banner)
 
 # 🏆 Mais Procurado
 
@@ -27,3 +27,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" alt="GitHub">
   </a>
 </p>
+*/
